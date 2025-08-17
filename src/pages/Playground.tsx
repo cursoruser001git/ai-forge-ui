@@ -213,7 +213,8 @@ export default function Playground() {
   };
 
   return (
-    <div className="h-screen flex">
+    <div className="min-h-screen bg-slate-50">
+      <div className="h-screen flex">
       {/* Sidebar */}
       <div className="w-80 border-r border-border/50 bg-card/30 backdrop-blur-xl flex flex-col">
         {/* Sidebar Header */}
@@ -452,6 +453,7 @@ export default function Playground() {
             </p>
           </div>
         </div>
+      </div>
       </div>
     </div>
   );
