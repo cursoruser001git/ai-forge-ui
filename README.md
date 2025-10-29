@@ -1,3 +1,5 @@
+![GitHub stars](https://img.shields.io/github/stars/Sulemanaddu/ai-forge-ui) ![GitHub forks](https://img.shields.io/github/forks/Sulemanaddu/ai-forge-ui)
+
 # AI Forge UI
 
 ## How can I edit this code?
