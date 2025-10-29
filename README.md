@@ -49,3 +49,7 @@ This project is built with:
 - Vite
 - TypeScript
 - React
+
+## Contributors
+
+[![Contributors](https://contrib.rocks/image?repo=Sulemanaddu/ai-forge-ui)](https://github.com/Sulemanaddu/ai-forge-ui/graphs/contributors)
